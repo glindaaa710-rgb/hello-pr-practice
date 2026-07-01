@@ -15,3 +15,9 @@ A minimal project used to practice:
 ```bash
 python greet.py
 ```
+
+## Running tests
+
+```bash
+python -m unittest
+```
